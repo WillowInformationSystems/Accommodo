@@ -1,0 +1,2 @@
+# Accomodo
+Student accommodation finder
