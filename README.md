@@ -1,2 +1,2 @@
-# intelli-vasapi
-value added services api
+# Accommodo
+Accommodation Finder api
