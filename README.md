@@ -1,2 +1,2 @@
-# Accommodo
-Student accommodation finder
+# intelli-vasapi
+value added services api
